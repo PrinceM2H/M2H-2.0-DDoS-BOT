@@ -1,0 +1,43 @@
+UserID: 5798029484 | Time: 2024-09-08 14:11:32.591366 | Command: /bgmi | Target: 83.82.827.22 | Port: 443 | Time: 80
+Username: @m2hgamerz
+Target: 83.82.827.22
+Port: 443
+Time: 80
+
+UserID: 5798029484 | Time: 2024-09-08 14:11:53.098277 | Command: /bgmi | Target: 40.119.241.42 | Port: 443 | Time: 80
+Username: @m2hgamerz
+Target: 40.119.241.42
+Port: 443
+Time: 80
+
+UserID: 5798029484 | Time: 2024-09-08 14:16:55.796096 | Command: /bgmi | Target: 4.247.17.91 | Port: 15168 | Time: 120
+Username: @m2hgamerz
+Target: 4.247.17.91
+Port: 15168
+Time: 120
+
+UserID: 5798029484 | Time: 2024-09-08 14:29:00.950383 | Command: /bgmi | Target: 52.140.37.85 | Port: 22931 | Time: 120
+Username: @m2hgamerz
+Target: 52.140.37.85
+Port: 22931
+Time: 120
+
+UserID: 5798029484 | Time: 2024-09-08 14:36:45.445127 | Command: /bgmi | Target: 52.140.37.85 | Port: 22931 | Time: 120
+UserID: 5798029484 | Time: 2024-09-08 14:37:09.366599 | Command: /bgmi | Target: 52.140.37.85 | Port: 22931 | Time: 120
+Username: @m2hgamerz
+Target: 52.140.37.85
+Port: 22931
+Time: 120
+
+UserID: 5798029484 | Time: 2024-09-08 14:37:21.469767 | Command: /bgmi | Target: 52.140.37.85 | Port: 22931 | Time: 120
+Username: @m2hgamerz
+Target: 52.140.37.85
+Port: 22931
+Time: 120
+
+UserID: 5798029484 | Time: 2024-09-08 14:39:10.485665 | Command: /bgmi | Target: 52.140.37.85 | Port: 22931 | Time: 120
+Username: @m2hgamerz
+Target: 52.140.37.85
+Port: 22931
+Time: 120
+
